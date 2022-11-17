@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import CAT from './CAT'
 import HeaderSocial from './HeaderSocial'
-import ME from '../../assets/meOrignal.png'
+import ME from '../../assets/mypic.png'
 
 
 const Header = () => {

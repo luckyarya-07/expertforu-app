@@ -10,34 +10,39 @@ const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Website Design</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Responsive Website 
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              WordPress Website Design
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              React App Design
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              UX/UI 
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Figma to HTML5
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Sketch to HTML5
             </li>
+            <li>
+              <BiCheck className='service__list_icon'/>
+              One Page Website Design
+            </li>
+            
           </ul>
 
         </article>
@@ -50,31 +55,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              WordPress Website 
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Customization 
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Woocommerce Customization
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Plugins
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Shopify
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Wix
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              React Web App
             </li>
           </ul>
 
@@ -83,34 +88,34 @@ const Services = () => {
         {/* END  OF Web Development */}
         <article className='service'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Marketing</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Email Marketing
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Whatsapp Bulk Message
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Bulk SMS Marketing
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Social Media Marketing 
             </li>
             <li>
               <BiCheck className='service__list_icon'/>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
+              Search Engine Optimization
             </li>
-            <li>
+            {/* <li>
               <BiCheck className='service__list_icon'/>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, in?
-            </li>
+            </li> */}
           </ul>
 
         </article>

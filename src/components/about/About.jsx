@@ -23,7 +23,7 @@ const About = () => {
               <article className='about__card'>
                 <FaAward className='about__icon'/>
                 <h5>Experience</h5>
-                <small>+4 years working</small>
+                <small>+5 years working</small>
               </article>
 
               <article className='about__card'>
@@ -35,12 +35,16 @@ const About = () => {
               <article className='about__card'>
                 <VscFolderLibrary className='about__icon'/>
                 <h5>Projects</h5>
-                <small>50+</small>
+                <small>100+</small>
               </article>
             </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio laudantium, velit provident quae temporibus labore tempore delectus. Accusantium facere ipsa est facilis voluptatem ab minima itaque et? Necessitatibus, dicta provident.
+            As a professional WordPress Developer and Web Designer, 
+            I am always striving to provide the best possible service to my clients. 
+            Reviews and client satisfaction are my main objectives, and 
+            I will not stop working until you are satisfied. 
+            Let's work together! I can deliver very fast, guaranteed high-quality service.
             </p>
 
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>  
